@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "simple discord bot using slash commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vergonha",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3"
+  }
+}
