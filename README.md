@@ -14,7 +14,7 @@ $ git clone https://github.com/vergonha/discord-js-template.git
 $ cd discord-js-template
 ```
 
-Rename or create new `.env` file 🔒, you need to fill it in correctly, or your bot will not work. Veja o arquivo `.env.example` file.
+Rename or create new `.env` file 🔒, you need to fill it in correctly, or your bot will not work. See `.env.example` file.
 
 ```env
 BOT_TOKEN=DISCORD BOT TOKEN
